@@ -1,0 +1,257 @@
+[
+  {
+    "particulars": "HDFC Bank",
+    "purchasePrice": 1490.0,
+    "qty": 50,
+    "exchangeCode": "HDFCBANK",
+    "exchange": "NSE",
+    "sector": "Financial Sector"
+  },
+  {
+    "particulars": "Bajaj Finance",
+    "purchasePrice": 6466.0,
+    "qty": 15,
+    "exchangeCode": "BAJFINANCE",
+    "exchange": "NSE",
+    "sector": "Financial Sector"
+  },
+  {
+    "particulars": "ICICI Bank",
+    "purchasePrice": 780.0,
+    "qty": 84,
+    "exchangeCode": "532174",
+    "yahooSymbol": "ICICIBANK",
+    "exchange": "BSE",
+    "sector": "Financial Sector"
+  },
+  {
+    "particulars": "Bajaj Housing",
+    "purchasePrice": 130.0,
+    "qty": 504,
+    "exchangeCode": "544252",
+    "yahooSymbol": "BAJAJHFL",
+    "exchange": "BSE",
+    "sector": "Financial Sector"
+  },
+  {
+    "particulars": "Savani Financials",
+    "purchasePrice": 24.0,
+    "qty": 1080,
+    "exchangeCode": "511577",
+    "yahooSymbol": "SAVANI",
+    "exchange": "BSE",
+    "sector": "Financial Sector"
+  },
+  {
+    "particulars": "Affle India",
+    "purchasePrice": 1151.0,
+    "qty": 50,
+    "exchangeCode": "AFFLE",
+    "exchange": "NSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "LTI Mindtree",
+    "purchasePrice": 4775.0,
+    "qty": 16,
+    "exchangeCode": "LTIM",
+    "exchange": "NSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "KPIT Tech",
+    "purchasePrice": 672.0,
+    "qty": 61,
+    "exchangeCode": "542651",
+    "yahooSymbol": "KPITTECH",
+    "exchange": "BSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "Tata Tech",
+    "purchasePrice": 1072.0,
+    "qty": 63,
+    "exchangeCode": "544028",
+    "yahooSymbol": "TATATECH",
+    "exchange": "BSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "BLS E-Services",
+    "purchasePrice": 232.0,
+    "qty": 191,
+    "exchangeCode": "544107",
+    "yahooSymbol": "BLSE",
+    "exchange": "BSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "Tanla",
+    "purchasePrice": 1134.0,
+    "qty": 45,
+    "exchangeCode": "532790",
+    "yahooSymbol": "TANLA",
+    "exchange": "BSE",
+    "sector": "Tech Sector"
+  },
+  {
+    "particulars": "Dmart",
+    "purchasePrice": 3777.0,
+    "qty": 27,
+    "exchangeCode": "DMART",
+    "exchange": "NSE",
+    "sector": "Consumer"
+  },
+  {
+    "particulars": "Tata Consumer",
+    "purchasePrice": 845.0,
+    "qty": 90,
+    "exchangeCode": "532540",
+    "yahooSymbol": "TATACONSUM",
+    "exchange": "BSE",
+    "sector": "Consumer"
+  },
+  {
+    "particulars": "Pidilite",
+    "purchasePrice": 2376.0,
+    "qty": 36,
+    "exchangeCode": "500331",
+    "yahooSymbol": "PIDILITIND",
+    "exchange": "BSE",
+    "sector": "Consumer"
+  },
+  {
+    "particulars": "Tata Power",
+    "purchasePrice": 224.0,
+    "qty": 225,
+    "exchangeCode": "500400",
+    "yahooSymbol": "TATAPOWER",
+    "exchange": "BSE",
+    "sector": "Power"
+  },
+  {
+    "particulars": "KPI Green",
+    "purchasePrice": 875.0,
+    "qty": 50,
+    "exchangeCode": "542323",
+    "yahooSymbol": "KPIGREEN",
+    "exchange": "BSE",
+    "sector": "Power"
+  },
+  {
+    "particulars": "Suzlon",
+    "purchasePrice": 44.0,
+    "qty": 450,
+    "exchangeCode": "532667",
+    "yahooSymbol": "SUZLON",
+    "exchange": "BSE",
+    "sector": "Power"
+  },
+  {
+    "particulars": "Gensol",
+    "purchasePrice": 998.0,
+    "qty": 45,
+    "exchangeCode": "542851",
+    "yahooSymbol": "GENSOL",
+    "exchange": "BSE",
+    "sector": "Power"
+  },
+  {
+    "particulars": "Hariom Pipes",
+    "purchasePrice": 580.0,
+    "qty": 60,
+    "exchangeCode": "543517",
+    "yahooSymbol": "HARIOMPIPE",
+    "exchange": "BSE",
+    "sector": "Pipe Sector"
+  },
+  {
+    "particulars": "Astral",
+    "purchasePrice": 1517.0,
+    "qty": 56,
+    "exchangeCode": "ASTRAL",
+    "exchange": "NSE",
+    "sector": "Pipe Sector"
+  },
+  {
+    "particulars": "Polycab",
+    "purchasePrice": 2818.0,
+    "qty": 28,
+    "exchangeCode": "542652",
+    "yahooSymbol": "POLYCAB",
+    "exchange": "BSE",
+    "sector": "Pipe Sector"
+  },
+  {
+    "particulars": "Clean Science",
+    "purchasePrice": 1610.0,
+    "qty": 32,
+    "exchangeCode": "543318",
+    "yahooSymbol": "CLEAN",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Deepak Nitrite",
+    "purchasePrice": 2248.0,
+    "qty": 27,
+    "exchangeCode": "506401",
+    "yahooSymbol": "DEEPAKNTR",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Fine Organic",
+    "purchasePrice": 4284.0,
+    "qty": 16,
+    "exchangeCode": "541557",
+    "yahooSymbol": "FINEORG",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Gravita",
+    "purchasePrice": 2037.0,
+    "qty": 8,
+    "exchangeCode": "533282",
+    "yahooSymbol": "GRAVITA",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "SBI Life",
+    "purchasePrice": 1197.0,
+    "qty": 49,
+    "exchangeCode": "540719",
+    "yahooSymbol": "SBILIFE",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Infy",
+    "purchasePrice": 1647.0,
+    "qty": 36,
+    "exchangeCode": "500209",
+    "yahooSymbol": "INFY",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Happeist Mind",
+    "purchasePrice": 1103.0,
+    "qty": 45,
+    "exchangeCode": "543237",
+    "yahooSymbol": "HAPPSTMNDS",
+    "exchange": "BSE",
+    "sector": "Others"
+  },
+  {
+    "particulars": "Easemytrip",
+    "purchasePrice": 20.0,
+    "qty": 1332,
+    "exchangeCode": "543272",
+    "yahooSymbol": "EASEMYTRIP",
+    "exchange": "BSE",
+    "sector": "Others"
+  }
+]
